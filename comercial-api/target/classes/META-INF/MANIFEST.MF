@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Pichau
+Build-Jdk: 11.0.2
+Implementation-Title: comercial-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.study
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/comercial-api
+Created-By: Maven Integration for Eclipse
+
